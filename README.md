@@ -1,5 +1,5 @@
 # hayden-robotics-discord-bot
-Repository for Hayden Robotics' Discord server bot.
+Repository for Hayden Robotics' Discord server bot done with Andrew Jiang.
 
 This is code that is used to create a Discord server bot that allows users to interact with the **Google Classroom API** and the **FTC API** through a discord server. Thus, making it easy for users to not only get information from FTC but also get updates from Google Classroom in a server to communicate with your fellow teammates.
 
